@@ -10,6 +10,7 @@ Daily returns
 Volatility (standard deviation of returns)
 Generate plots with matplotlib
 Modular and object-oriented design
+
 🗂 Project Structure
 Financial-analysis-/
 ├── sample_stock_data.csv         # Sample input data
@@ -17,6 +18,7 @@ Financial-analysis-/
 ├── stock_analyzer.py             # StockAnalyzer class with core logic
 ├── finance_utils.py              # Helper functions for computations
 └── output_plot.png               # Output plot (created on runtime)
+
 📦 Requirements
 Python 3.x
 pandas
